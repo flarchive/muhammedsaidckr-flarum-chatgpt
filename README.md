@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of muhammedsaidckr/flarum-chatgpt.** Not for installation: use [Packagist](https://packagist.org/packages/muhammedsaidckr/flarum-chatgpt) or the [upstream repository](https://github.com/muhammedsaidckr/flarum-chatgpt).
 
-**0** versions archived · Latest: [`v1.5.0`](https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt/tree/archive/v1.5.0) · License: `MIT` · Flarum: `^1.2.0`
+**38** versions archived · Latest: [`v1.5.0`](https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt/tree/archive/v1.5.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-12-11 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt/tree/archive/v1.0.0) |
+| `v1.0.1` | 2023-12-11 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt/tree/archive/v1.0.1) |
+| `v1.0.2` | 2023-12-11 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt/tree/archive/v1.0.2) |
+| `v1.0.3` | 2023-12-11 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt/tree/archive/v1.0.3) |
+| `v1.0.4` | 2024-05-02 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt/tree/archive/v1.0.4) |
+| `v1.0.5` | 2024-05-02 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt/tree/archive/v1.0.5) |
+| `v1.0.6` | 2024-05-02 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt/tree/archive/v1.0.6) |
+| `v1.1.0` | 2024-05-02 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt/tree/archive/v1.1.0) |
+| `v1.1.1` | 2024-05-02 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt/tree/archive/v1.1.1) |
+| `v1.1.2` | 2024-05-20 | `^1.2.0` | [Browse](https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt/tree/archive/v1.1.2) |
+
+[View all 38 versions](https://github.com/flarchive/muhammedsaidckr-flarum-chatgpt/tags)
 
 Catalog entry: [packages/muhammedsaidckr-flarum-chatgpt.json](https://github.com/flarchive/archive-index/blob/main/packages/muhammedsaidckr-flarum-chatgpt.json)
 
